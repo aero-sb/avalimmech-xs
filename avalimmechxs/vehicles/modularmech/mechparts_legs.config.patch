@@ -1,15 +1,10 @@
 [
 	{
-		"op": "test",
-		"path": "/xsm_thetamech/stats/speed",
-		"value": 5
-	},
-	{
-		"op" : "add",
+		"op" : "replace",
 		"path" : "/mechlegsavali",
 		"value" : {
 			"stats" : {
-				"speed" : 8,
+				"speed" : 6,
 				"jump" :6
 			},
 			"partParameters" : {},
@@ -22,26 +17,108 @@
 				"frontLegJoint" : "legjoint/avali.png",
 				"hips" : "hips/avali.png"
 			},
-			"defaultPrimaryColors" : ["b2e89d", "51bd3b", "247824", "144216"],
-			"defaultSecondaryColors" : ["838383", "555555", "383838", "151515"],
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 				"animatedParts" : { "parts" : {
 					"frontLegFullbright" : { "properties" : {
-					  "offset" : [-1.25, -3.2]
+					  "offset" : [-1.0, -2.65]
 					}},
 					"backLegFullbright" : { "properties" : {
-						"offset" : [1.4, -3.2]
+						"offset" : [1.8, -2.65]
 					}},
 					"frontLeg" : { "properties" :{
-						"offset" : [-1.4, -1.8]	
+						"offset" : [-1.0, -1.9]	
 					}},
 					"backLeg" : { "properties" :{
-						"offset" : [1.4, -1.8]	
+						"offset" : [1.8, -1.9]	
 					}},
 					"hips" : { "properties" :{
-						"offset" : [0, -0.5]	
+						"offset" : [0.5, -0.5]	
 					}}
-			    }}
+			  }}
+			}
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/mechlegsavaliproto",
+		"value" : {
+			"stats" : {
+				"speed" : 6,
+				"jump" :6
+			},
+			"partParameters" : {},
+			"partImages" : {
+				"backLeg" : "leg/avali_back_proto.png",
+				"backLegFullbright" : "leg/avali_fullbright_proto.png",
+				"backLegJoint" : "legjoint/avali.png",
+				"frontLeg" : "leg/avali_front_proto.png",
+				"frontLegFullbright" : "leg/avali_fullbright_proto.png",
+				"frontLegJoint" : "legjoint/avali.png",
+				"hips" : "hips/avali_proto.png"
+			},
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
+			"animationCustom" : {
+				"animatedParts" : { "parts" : {
+					"frontLegFullbright" : { "properties" : {
+					  "offset" : [-1.0, -2.65]
+					}},
+					"backLegFullbright" : { "properties" : {
+						"offset" : [1.8, -2.65]
+					}},
+					"frontLeg" : { "properties" :{
+						"offset" : [-1.0, -1.9]	
+					}},
+					"backLeg" : { "properties" :{
+						"offset" : [1.8, -1.9]	
+					}},
+					"hips" : { "properties" :{
+						"offset" : [0.5, -0.5]	
+					}}
+			  }}
+			}
+		}
+	},
+	{
+		"op" : "add",
+		"path" : "/mechlegsavalinezo",
+		"value" : {
+			"stats" : {
+				"speed" : 6,
+				"jump" :6
+			},
+			"partParameters" : {},
+			"partImages" : {
+				"backLeg" : "leg/avali_back_nezo.png",
+				"backLegFullbright" : "leg/avali_fullbright_nezo.png",
+				"backLegJoint" : "legjoint/avali.png",
+				"frontLeg" : "leg/avali_front_nezo.png",
+				"frontLegFullbright" : "leg/avali_fullbright_nezo.png",
+				"frontLegJoint" : "legjoint/avali.png",
+				"hips" : "hips/avali_nezo.png"
+			},
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
+			"animationCustom" : {
+				"animatedParts" : { "parts" : {
+					"frontLegFullbright" : { "properties" : {
+					  "offset" : [-1.0, -2.65]
+					}},
+					"backLegFullbright" : { "properties" : {
+						"offset" : [1.8, -2.65]
+					}},
+					"frontLeg" : { "properties" :{
+						"offset" : [-1.0, -1.9]	
+					}},
+					"backLeg" : { "properties" :{
+						"offset" : [1.8, -1.9]	
+					}},
+					"hips" : { "properties" :{
+						"offset" : [0.5, -0.5]	
+					}}
+			  }}
 			}
 		}
 	}

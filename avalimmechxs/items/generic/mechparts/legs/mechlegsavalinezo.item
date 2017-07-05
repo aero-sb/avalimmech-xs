@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegsavalinezo",
+  "price" : 11200,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegsavalinezo.png",
+  "description" : "Mech legs suited for a MM4-N.",
+  "shortdescription" : "MM4-N Wasp Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "mechlegsavalinezo"]
+}
