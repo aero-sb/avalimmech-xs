@@ -1,5 +1,5 @@
 # Make sure to change this!!!
-modname="avalimmechxs"
+modname="avalimmech-xs"
 
 pak=$modname".pak"
 dir=$modname
