@@ -4,7 +4,7 @@
   "friendlyName" : "Avali Modular Mech XS Patch",
   "link" : "steam://url/CommunityFilePage/955827258",
   "name" : "mechavalixs",
-  "requires" : ["XS Mechs : Modular Edition (BETA)", "mechavali"],
+  "includes" : ["mechavali"],
   "steamContentId" : "955827258",
   "version" : "0.2.0"
 }
