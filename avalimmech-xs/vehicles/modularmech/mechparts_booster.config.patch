@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/mechboosteravali/animationCustom/animatedParts",
+    "value" : { "parts" : {
+      "frontBoosterFullbright" : { "properties" : {
+        "offset" : [-3.2, 1.9],
+        "zLevel" : 10.5
+      }},
+      "backBoosterFullbright" : { "properties" : {
+        "offset" : [1.55, 1.9],
+        "zLevel": 1 
+      }}
+    }}
+  },
+  {
+    "op": "replace",
+    "path": "/mechboosteravaliproto/animationCustom/animatedParts",
+    "value" : { "parts" : {
+      "frontBoosterFullbright" : { "properties" : {
+        "offset" : [-3.2, 1.9],
+        "zLevel" : 10.5
+      }},
+      "backBoosterFullbright" : { "properties" : {
+        "offset" : [1.55, 1.9],
+        "zLevel": 1 
+      }}
+    }}
+  },
+  {
+    "op": "replace",
+    "path": "/mechboosteravalinezo/animationCustom/animatedParts",
+    "value" : { "parts" : {
+      "frontBoosterFullbright" : { "properties" : {
+        "offset" : [-3.2, 1.9],
+        "zLevel" : 10.5
+      }},
+      "backBoosterFullbright" : { "properties" : {
+        "offset" : [1.55, 1.9],
+        "zLevel": 1 
+      }}
+    }}
+  }
+]

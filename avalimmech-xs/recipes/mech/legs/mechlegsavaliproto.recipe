@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "mechlegsavali", "count" : 1}
+  ],
+  "duration" : 1,
+  "output" : { "item" : "mechlegsavaliproto", "count" : 1 },
+  "groups" : [ "craftingmech", "mechlegs" ]
+}
