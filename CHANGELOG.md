@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.0] - 2017-10-07
+### Added
+- New development workflow.
+
+### Removed
+- Test patch in mechparts_legs.config.patch.
+
 ## [0.2.0] - 2017-07-03
 ### Added
 - Magic colors!
