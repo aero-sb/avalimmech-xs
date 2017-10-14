@@ -83,7 +83,7 @@
 	},
 	{
 		"op" : "add",
-		"path" : "/mechlegsavalinezo",
+		"path" : "/mechlegsnaeroan",
 		"value" : {
 			"stats" : {
 				"speed" : 6,
