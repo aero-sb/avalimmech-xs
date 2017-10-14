@@ -6,10 +6,10 @@
   "category" : "mechPart",
   "tooltipKind" : "mechlegs",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechlegsavaliproto.png",
-  "description" : "Leggings suited for a MM5-AP.",
-  "shortdescription" : "MM5-AP Wasp Legs",
+  "inventoryIcon" : "mechlegsnaeroap.png",
+  "description" : "Leggings suited for a MM4-AP.",
+  "shortdescription" : "MM4-AP Wasp Legs",
   "itemTags" : [ ],
 
-  "mechPart" : ["legs", "mechlegsavaliproto"]
+  "mechPart" : ["legs", "mechlegsnaeroap"]
 }

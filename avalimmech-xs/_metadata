@@ -2,9 +2,9 @@
   "author" : "Wolf",
   "description" : "XS Mechs: Modular Edition patch for the Avali Modular Mech mod!\n\n[h1]Requirements[/h1]\nYou need the Avali Modular Mech and XS Mechs: Modular Edition mods!\n\n[h1]How to Get 'Em[/h1]\nThey're all craftable in the legs section of the mech crafting station at the outpost!\n\n[h1]FAQ[/h1]\n[b]The legs seem slightly slower[/b]\nThey are, balancing things out with the double tap boost that comes from XS.\n\n[b]Tell me you at least kept the color palettes in mind this time >.>[/b]\nNope, the severity of my color palette decisions only came to a realization today.\n\n[b]I found a bug![/b]\nIf its pretty bad, post it in the discussions otherwise just tell me in the comments.\n\n[h1]Item IDs[/h1]\nMM4-A Leggings: [b]mechlegsavali[/b]\nMM5-AP Leggings: [b]mechlegsavaliproto[/b]\nMM4-N Leggings: [b]mechlegsavalinezo[/b]\n\nSee the vanilla version for [i]a lot[/i] more info: http://steamcommunity.com/sharedfiles/filedetails/?id=950340366",
   "friendlyName" : "Avali Modular Mech XS Patch",
+  "includes" : ["mechavali"],
   "link" : "steam://url/CommunityFilePage/955827258",
   "name" : "mechavalixs",
-  "includes" : ["mechavali"],
   "steamContentId" : "955827258",
-  "version" : "0.2.0"
+  "version" : "1.0.0"
 }
