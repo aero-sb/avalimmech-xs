@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### [1.1.0] - 2017-10-14
+## Changed
+- Renamed all pngs, items and mechpart names in configs.
+- Updated mechleg stats.
+
 ## [1.0.0] - 2017-10-07
 ### Added
 - New development workflow.
