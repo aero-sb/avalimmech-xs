@@ -6,10 +6,10 @@
   "category" : "mechPart",
   "tooltipKind" : "mechlegs",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechlegsavalinezo.png",
-  "description" : "Mech legs suited for a MM4-N.",
-  "shortdescription" : "MM4-N Wasp Legs",
+  "inventoryIcon" : "mechlegsnaeroan.png",
+  "description" : "Mech legs suited for a MM4-AN.",
+  "shortdescription" : "MM4-AN Wasp Legs",
   "itemTags" : [ ],
 
-  "mechPart" : ["legs", "mechlegsavalinezo"]
+  "mechPart" : ["legs", "mechlegsnaeroan"]
 }
