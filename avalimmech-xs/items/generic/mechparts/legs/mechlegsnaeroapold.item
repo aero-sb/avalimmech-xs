@@ -1,5 +1,5 @@
 {
-  "itemName" : "mechlegsnaeroap",
+  "itemName" : "mechlegsavaliproto",
   "price" : 11200,
   "maxStack" : 1,
   "rarity" : "Rare",
@@ -7,7 +7,7 @@
   "tooltipKind" : "mechlegs",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechlegsnaeroap.png",
-  "description" : "Leggings suited for a MM4-AP.",
+  "description" : "Use a NAERO Service Terminal (get via architect table) to update item ID.",
   "shortdescription" : "MM4-AP Wasp Legs",
   "itemTags" : [ ],
 
